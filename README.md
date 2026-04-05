@@ -149,11 +149,11 @@ git push -u origin main
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor Danilo Gabriel do Nascimento!
 
 <div align="center">
 
-Feito com 💜 para a **Atividade Somativa 1**
+Feito **Atividade Somativa 1**
 
 [![GitHub](https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
 
