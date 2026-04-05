@@ -149,7 +149,7 @@ git push -u origin main
 
 ---
 
-## 👨‍💻 Autor Danilo Gabriel do Nascimento!
+## 👨‍💻 Autor: Danilo Gabriel do Nascimento!
 
 <div align="center">
 
