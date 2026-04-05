@@ -81,29 +81,6 @@ login-somativa1/
 ├── package.json          # Dependências e scripts do projeto
 └── README.md             # Documentação do projeto
 ```
-
----
-
-### Passo a passo
-
-```bash
-# 1. Clone o repositório (ou extraia o ZIP)
-git clone https://github.com/SEU_USUARIO/login-somativa1.git
-
-# 2. Entre na pasta do projeto
-cd login-somativa1
-
-# 3. Instale as dependências
-npm install
-
-# 4. Inicie o servidor de desenvolvimento
-npm start
-```
-
-> O navegador abrirá automaticamente em **http://localhost:3000** ✅
-
----
-
 ## 🔑 Credenciais de Acesso
 
 | Campo  | Valor |
