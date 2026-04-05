@@ -84,16 +84,6 @@ login-somativa1/
 
 ---
 
-## ⚙️ Como Rodar o Projeto
-
-### Pré-requisitos
-
-Antes de começar, você precisa ter instalado na sua máquina:
-
-- [Node.js](https://nodejs.org/) — versão LTS recomendada
-- [Git](https://git-scm.com/) *(opcional, para clonar)*
-- [VS Code](https://code.visualstudio.com/) *(editor recomendado)*
-
 ### Passo a passo
 
 ```bash
