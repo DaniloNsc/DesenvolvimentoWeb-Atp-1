@@ -22,9 +22,7 @@
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Estrutura de Pastas](#-estrutura-de-pastas)
-- [Como Rodar o Projeto](#-como-rodar-o-projeto)
 - [Credenciais de Acesso](#-credenciais-de-acesso)
-- [Como Subir no GitHub](#-como-subir-no-github)
 - [Autor](#-autor)
 
 ---
