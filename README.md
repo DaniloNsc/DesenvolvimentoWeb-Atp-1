@@ -121,34 +121,6 @@ npm start
 | 📧 E-mail | `eduardo.lino@pucpr.br` |
 | 🔒 Senha  | `123456` |
 
-> ⚠️ Você pode substituir pelo seu próprio e-mail e senha alterando as constantes no arquivo `App.jsx`.
-
----
-
-## 📤 Como Subir no GitHub
-
-```bash
-# 1. Inicie o repositório Git
-git init
-
-# 2. Adicione todos os arquivos
-git add .
-
-# 3. Faça o primeiro commit
-git commit -m "feat: adiciona aplicação de login - Somativa 1"
-
-# 4. Renomeie a branch para main
-git branch -M main
-
-# 5. Conecte ao repositório remoto
-git remote add origin https://github.com/SEU_USUARIO/login-somativa1.git
-
-# 6. Suba os arquivos
-git push -u origin main
-```
-
----
-
 ## 👨‍💻 Autor: Danilo Gabriel do Nascimento!
 
 <div align="center">
